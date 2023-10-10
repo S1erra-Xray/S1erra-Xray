@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-        <img alt="" src="banner.jpg"/>
+        <img alt="" src="banner.png"/>
         <br><br>
         <img src="https://readme-typing-svg.demolab.com?size=26&pause=1000&width=435&lines=Software+development;Administration;Offensive+Security;Deffensive+Security" alt="">
         <hr>
