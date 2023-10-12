@@ -1,7 +1,11 @@
 <div>
     <div align="center">
         <img alt="" src="banner.png"/>
-        <br><br>
+        <br>
+        <a href="https://s1erra-xray.github.io/modern-resume-theme">
+            <img alt="" src="https://img.shields.io/badge/-S1erraXray.github.io-F0F0F0?style=for-the-badge&logo=jekyll&logoColor=red">
+        </a>
+        <br>
         <img src="https://readme-typing-svg.demolab.com?size=26&pause=1000&width=435&lines=Software+development;Administration;Offensive+Security;Deffensive+Security" alt="">
         <hr>
     </div>
